@@ -1,0 +1,40 @@
+#cards{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: center;
+    align-items:center ;
+    gap: 2px;
+}
+#card{
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: row;
+    align-items: first baseline;
+
+    img{
+        height: 200px;
+        width: 200px;
+    }
+}
+#text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(91, 197, 197);
+    gap: 8px;
+    bottom: 20px;
+    left: 15px;
+   position: absolute; 
+    #h3{
+        font-size: 20px;
+        font-weight:bold;
+        
+    } 
+    #h4{
+        font-size: 15px;
+        font-weight:bold;
+        
+    }
+}

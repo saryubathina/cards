@@ -1,0 +1,22 @@
+[
+    {
+       "image":"./img1.jpg",
+       "text":" seventeen",
+       "small text":"maestro" 
+    },
+    {
+      "image":"./img2.jpg",
+      "text":" Bts",
+      "small text":"Run run"
+    },
+   {
+     "image":"./img3.jpg",
+     "text":" Txt",
+     "small text":"coming back for more"
+    },
+   {
+     "image":"./img4.jpg",
+     "text":" Enhyphen",
+     "small text":"xo"
+    }
+]
